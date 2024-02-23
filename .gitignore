@@ -1,0 +1,13 @@
+0.bin
+build.bin
+build.raw
+build.elf
+build.iso
+build.cue
+build.map
+/src/**/*.o
+/[Cc]ompiler/msys2/tmp/*
+/[Mm]ednafen/b/*
+/[Mm]ednafen/sav/*
+/[Mm]ednafen/stdout.txt
+/[Mm]ednafen/stderr.txt
